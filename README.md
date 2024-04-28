@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AliNaderi1996
+- 👋 Hi, I’m Ali Naderi
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m always currently learning :)
 - 💞️ I’m looking to collaborate on in you're machine learning, data analitics, deep learning, machine vision and NLP projects
